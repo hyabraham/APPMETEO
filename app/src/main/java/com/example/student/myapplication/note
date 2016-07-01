@@ -1,0 +1,4 @@
+
+Intent intent = new Intent(Intent.ACTION_INSERT);
+intent.putExtra
+vérifier si exist intent.resolveactivity(getpackagemanager()) != null
